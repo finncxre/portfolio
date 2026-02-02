@@ -1,0 +1,119 @@
+
+html {
+  margin-top: 20px;
+  padding: 0px;
+  border:0;
+  background-color: white;
+}
+header {
+  padding: 100px;
+  
+}
+
+.bungee-regular {
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+/*
+lul {
+  list-style: none; 
+  padding-left: 1em; 
+}
+
+li::before {
+  content: "★"; 
+  color: white; 
+  display: inline-block;
+  width: 1em;
+  margin-left: -1.25em; 
+}
+*/
+
+ul {
+  list-style-type: none; 
+  margin: 0;
+  padding: 0;
+  display: flex; 
+  justify-content: space-around; 
+  background-color: #7D98FF; 
+}
+
+li a {
+  display: block; 
+  padding: 14px 16px;
+  text-decoration: none; 
+  color: white;
+}
+
+li a:hover {
+  background-color: #111; 
+}
+
+
+
+
+
+nav {
+  background-color:#7D98FF;
+  color: white;
+
+}
+
+
+
+header {
+  background-image:url("jellyfish.jpg");
+  color: black;
+  font: bold 3.5em avenir, sans-serif;
+}
+body{ color: black;
+
+}
+
+#header{
+color: white;
+}
+
+
+h1{ font-family: "Bungee" , sans-serif;
+  font-weight:bold ;
+  color: white;
+
+}
+
+h2{
+  font-weight:bold ;
+}
+h3{
+  font-weight: bold;
+}
+
+p{font: 1.1em avenir, sans-serif;}
+
+section {
+  padding: 100px 20px;
+   font: 1.5em avenir, sans-serif;
+}
+
+footer { 
+  background-color: #7D98FF;
+  padding:20px;
+  margin: 20px;
+  font-family: avenir, sans-serif;
+  color: white;
+}
+
+a:link {font: 1.1em avenir, sans-serif;
+color: white;
+}
+
+a:visited {
+            color:#D6D4FF ;
+        }
+
+.pink-bg {
+  background-color: #FFEBFB;
+
